@@ -76,7 +76,7 @@ li.item1 a:hover {
 }
 
 li.item1 a:active {
-  background-position: -326px -111px;
+  background-position: -326px -111px; 
 }
 
 li.item2 a:link,
